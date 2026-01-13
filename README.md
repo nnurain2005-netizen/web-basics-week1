@@ -33,4 +33,5 @@ GitHub is an online platform to store and manage Git repositories.
 
 
 ## Author
-Ain
+Ain – Web Intern
+
