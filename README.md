@@ -26,5 +26,11 @@ Backend handles data processing, databases, and authentication.
 Git is a version control system used to track changes in code.
 GitHub is an online platform to store and manage Git repositories.
 
+## What I Learned This Week
+- I learned how the web works using HTTP and HTTPS
+- I understand the difference between client and server
+- I learned basic GitHub usage such as creating repositories and commits
+
+
 ## Author
 Ain
